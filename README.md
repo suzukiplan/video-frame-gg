@@ -25,7 +25,7 @@ ffmpeg -i movie_crop.mp4 -vf pad=w=1284:h=720:x=356:y=94 movie_pad.mp4
 
 あとは [frame.png](frame.png) と movie_pad.mp4 を動画編集ツールで合成します。なお、動画ツールによっては微妙にサイズが合わず調整が必要になる可能性がありますが概ね上手くいく筈です。（必要に応じてパディング座標を調整するなどして対応してください）
 
-![example.jpg](example.jpg)
+TODO: 利用例のTwitterリンクを貼る
 
 ## License
 
